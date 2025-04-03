@@ -30,7 +30,7 @@ RUn Clinker. Press start.
 
 ## Manual commandline use of Clinker
 
-This manual Clinker exercise should only be done *after* you have completed the annotation exercise from day 3 and if you feel compfortable using the commandline. It requires a good understanding of the input files of Clinker and how to get annotations. The commandline extraction procedure is complex and possibly it is better to do this by hand.
+This manual Clinker exercise should only be done *after* you have completed the annotation exercise from day 3 and if you feel comfortable using the commandline. It requires a good understanding of the input files of Clinker and how to get annotations. The commandline extraction procedure is complex and possibly it is better to do this by hand.
 
 ### Extracting regions
 ~~~
