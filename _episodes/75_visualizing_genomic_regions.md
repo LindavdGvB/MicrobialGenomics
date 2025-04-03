@@ -15,7 +15,7 @@ keypoints:
 
 
 ## Introduction
-In the previous exercises we detected a resistance gene. If you want to investigate if the genetic region is similar, suggesting a common source or clonal spread, the region can be investigated using a tool called https://github.com/gamcil/clinker . Clinker is available via commandline but also via the https://cagecat.bioinformatics.nl/ webserver. We will discuss both options and perform one of the options below. We have also included a piece of shell code to extract and annotate the regions, however you can also cut and paste the sequence from the contigs using a text editor. For this course, we provide an example of several regions with a resistance gene, however the code can be used to generate your own at a later timepoint.
+In the previous exercises we detected a resistance gene. If you want to investigate if the genetic region is similar, suggesting a common source or clonal spread, the region can be investigated using a tool called https://github.com/gamcil/clinker. Clinker is available via commandline but also via the https://cagecat.bioinformatics.nl/ webserver. We will discuss both options and perform one of the options below. We have also included a piece of shell code to extract and annotate the regions, however you can also cut and paste the sequence from the contigs using a text editor. For this course, we provide an example of several regions with a resistance gene, however the code can be used to generate your own at a later timepoint.
 
 ## Webbased use of Clinker
 
@@ -24,13 +24,13 @@ Unzip the extracted regions file to a folder
 
 Visit the website https://cagecat.bioinformatics.nl/ and press start at the "cblaster" button
 
-Fill in the details. Use NR for all proteins as annotation source, Refseq for only complete reference genomes, Swissprot for the manuallly curated Swissprot database. NR will be slow and might have false annotations. Refseq is faster. With Swissprot the annotations will be very precise but not alle proteins are in Swissprot. Press Query file and selected the unzipped .fasta files in the folder that contains the genetic regions you are interested in. Each region should be one file.
+Fill in the details. Use NR for all proteins as annotation source, Refseq for only complete reference genomes, Swissprot for the manually curated Swissprot database. NR will be slow and might have false annotations. Refseq is faster. With Swissprot the annotations will be very precise but not alle proteins are in Swissprot. Press Query file and selected the unzipped .fasta files in the folder that contains the genetic regions you are interested in. Each region should be one file.
 
-RUn Clinker. Press start.
+Run Clinker. Press start.
 
 ## Manual commandline use of Clinker
 
-This manual Clinker exercise should only be done *after* you have completed the annotation exercise from day 3 and if you feel compfortable using the commandline. It requires a good understanding of the input files of Clinker and how to get annotations. The commandline extraction procedure is complex and possibly it is better to do this by hand.
+This manual Clinker exercise should only be done *after* you have completed the annotation exercise from day 3 and if you feel comfortable using the commandline. It requires a good understanding of the input files of Clinker and how to get annotations. The commandline extraction procedure is complex and possibly it is better to do this by hand.
 
 ### Extracting regions
 ~~~
@@ -96,7 +96,7 @@ Download the .svg and html files you have just created and open it into a webbro
 
 > ## Challenge: Is the resistance gene location conserved?
 >
-> Compare the regions, are the genes the same on all regions? What differences can you see?. 
+> Compare the regions, are the genes the same on all regions? What differences can you see? 
 > 
 > 
 > > ## Solution
