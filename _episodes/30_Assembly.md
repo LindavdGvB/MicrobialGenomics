@@ -38,7 +38,7 @@ To run Flye we will use the Flye command with the --nano-hq option as we have hi
 $ ls
 $ cd ~/reads
 $ ls
-$ for sample in barcode01 barcode02  ; do
+$ for sample in barcode02 barcode03  ; do
     flye --nano-hq $sample.fastq  --threads 2  --out-dir ~/assembly/$sample/ 
   done
 $ cd ~/assembly
