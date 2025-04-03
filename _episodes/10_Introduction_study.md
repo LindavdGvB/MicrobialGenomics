@@ -23,7 +23,8 @@ We will be making use of the command line interface on the [Jupyterhub site](htt
 
 ### How to login
 
-The server we will be using has host address [Jupyterhub site](https://klif.uu.nl:8080/). Please login using your webbrowser. The username and password have been given in the group chat. Please take a look at the  the [Google Sheets table](https://docs.google.com/spreadsheets/d/1ImRY5QPblAv_LZrwCkHGQOKdyYQ4XHkvtYl9k8UNoKI/edit?usp=sharing) and write your name in the appropriate field to find out which two samples are assigned to you. To acccess the terminal, click on "New", top left and open "Linux Terminal". Bookmark it and give it an appropriate name so you can find it again later. 
+The server we will be using has host address [Jupyterhub site](https://klif.uu.nl:8080/). Please login using your webbrowser. The username and password have been given in the group chat. Please take a look at the  the [Google Sheets table](https://docs.google.com/spreadsheets/d/1ImRY5QPblAv_LZrwCkHGQOKdyYQ4XHkvtYl9k8UNoKI/edit?usp=sharing) and write your name in the appropriate field to find out which two samples are assigned to you. 
+To acccess the terminal in the webbrowser window; click on "New", top left and open "Linux Terminal". You can bookmark it and give it an appropriate name so you can find it again later. 
 
 ### Learning how the speak the language of the Linux commandline. 
 
@@ -33,7 +34,7 @@ The lecture can be found here: [Link](https://jpiamrtriumph.github.io/MicrobialG
 
 ### Dataset
 
-The ESBL resistant dataset we will be using comes from this paper: [Within-farm dynamics of ESBL-producing Escherichia coli in dairy cattle: Resistance profiles and molecular characterization by long-read whole-genome sequencing](https://pmc.ncbi.nlm.nih.gov/articles/PMC9366117/) and the non-ESBL resistant dataset comes from our own lab. This second set non-resistant set is only needed for the pangenome and GWAS studies and will be provided on day 4. The ESBL resistance E. coli read files have been downloaded from [ENA](https://www.ebi.ac.uk/ena/browser/view/PRJNA833969).
+The ESBL resistant dataset we will be using comes from this paper: [Within-farm dynamics of ESBL-producing Escherichia coli in dairy cattle: Resistance profiles and molecular characterization by long-read whole-genome sequencing](https://pmc.ncbi.nlm.nih.gov/articles/PMC9366117/) and the non-ESBL resistant dataset comes from our own lab. This second non-resistant set is only needed for the pangenome and GWAS studies and will be provided on day 4. The ESBL resistance E. coli read files have already been downloaded from [ENA](https://www.ebi.ac.uk/ena/browser/view/PRJNA833969).
 
 ### Where are the files located
 
